@@ -4,3 +4,5 @@ Python libraries needed:
 	time
 	csv
 	random
+	
+Creates CSV to the same directory as the app is being run in.
